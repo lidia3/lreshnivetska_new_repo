@@ -1,1 +1,1 @@
-Hello, I am Lidia Reshnivetska and I want to merge remote changes instead of local
+Hello, I am co-worker and Lidia will approve my changes on her branch
