@@ -1,1 +1,2 @@
 Hello, I am Lidia Reshnivetska (local branch)
+Hello, I am co-worker (remote changes)
