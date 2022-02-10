@@ -1,2 +1,1 @@
-Hello, I am Vasyl Vasylovych
-Hello, I am Taras Shevchenko
+Hello, I am Lidia Reshnivetska and I want to merge my local changes instead of remote
