@@ -1,2 +1,1 @@
-Hello, I am Vasyl Vasylovych
-Hello, I am Taras Shevchenko
+Hello, I am co-worker and I am waiting conflicts from Lidia when she will merge main branch to her own local branch
